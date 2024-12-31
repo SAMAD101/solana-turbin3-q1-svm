@@ -1,2 +1,2 @@
-# solana-turbin3-q1-svm
-Personal repo for Turbin3 Q4 2024 SVM
+# Turbin3 Q1 2025 SVM personal repo
+This is my personal repository for the Turbin3 Q1 2025 SVM Program. 
